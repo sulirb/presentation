@@ -1,0 +1,144 @@
+---
+presentation:
+  width: 1280
+  height: 1024
+  theme: serif.css
+---
+
+<!-- slide -->
+
+# Menu Maker by Qwenta
+
+# Projet 4
+
+## Outil de veille
+
+<!-- slide -->
+
+## **Présentation du support**
+
+### I. Aperçu de l'outil Wakelet
+
+### II. Séléction du contenu
+
+### III. Intégration des informations dans l'outil
+
+### IV. Conclusion
+
+### V. Annexe
+
+<!-- slide -->
+
+## I. **Aperçu de l'outil Wakelet**
+
+  <img src="wakelet.png" alt="wakelet" width="768px" height="432px">
+
+- Wakelet est une plateforme gratuite de stockage de contenu qui permet aux utilisateurs d'enregistrer, d'organiser et de partager ce même contenu sur Internet.
+- J'ai décidé de disposer le contenu de la veille dans 6 collections differentes présentes dans un espace commun appelé "Menu Maker by Qwenta": Base de données, Authentification, Frontend, VS Code, Backend, React.
+
+<!-- slide -->
+
+### Les points forts de Wakelet:
+
+- Sauvegarder facilement les contenus trouvés sur Internet
+
+- Pouvoir partager ses collections avec un simple lien sur des outils de collaboration type Slack ou Microsoft Teams
+- La possibilité de pouvoir organiser la disposition de son contenu
+
+**Cela en fait donc un outil très efficace dans le cadre d'une veille technologique.**
+
+<!-- slide -->
+
+## **II. Séléction du contenu**
+
+### **1. Le plugin daily.dev:**
+
+<img src="dailydev.png" alt="daily dev" width="768px" height="432px">
+
+- Daily.dev est une plateforme permettant de retrouver toutes les actualités, articles et ressources sur le développement web et les technologies liées, provenant de plus de 400 sources et ce dans un seul flux.
+
+- Il est disponible sur Chrome, Firefox et Edge.
+
+<!-- slide -->
+
+<img src="dailydevtag.png" alt="daily dev tag" width="768px" height="432px">
+
+On peut personnaliser son flux selon:
+
+- Les thèmes (cloud, databases, tech news, web development)
+
+- Des mots clés plus précis (image ci dessus)
+
+En somme, Daily.dev est un excellent outil pour les développeurs qui souhaitent rester au courant des dernières tendances et des innovations dans le domaine du développement web.
+
+<!-- slide -->
+
+### **2. Google Alert**
+
+<img src="google.png" alt="google" width="768px" height="432px">
+
+Google Alert est un outil de surveillance en ligne gratuit qui permet de suivre des mots clés spécifiques et de recevoir des mises à jour régulières.
+
+<!-- slide -->
+
+### On a plusieurs options de configurations:
+
+- Le type de résultat souhaité: actualités, blogs, vidéos, discussions, etc.
+- La langue souhaitée
+- La fréquence à laquelle on veut recevoir les alertes: journalière, hebdomadaire, mensuelle...
+- Le mode d'obtention des mises à jour: par e-mail ou via un flux RSS.
+
+**Sa personnalisation et sa praticité en fait un outil très efficace dans le cadre d'une veille technologique.**
+
+<!-- slide -->
+
+### **3. La documentation officielle**
+
+<img src="reactdoc.png" alt="doc react" width="768px" height="432px">
+
+La documentation officielle, ce sont les outils mis à dispoisition par les créateurs des technologies (ici React) afin de pouvoir aiguiller les débutants ou bien informer les développeurs confirmés des nouveautés.
+
+<!-- slide -->
+
+<img src="docvscode.png" alt="doc vs code" width="768px" height="432px">
+
+### Les points forts de la documentation officielle:
+
+- Elle est complète, en effet la documentation officielle va couvrir aussi bien les fonctionnalités de base que les fonctionnalités approfondies
+
+- Elle est mise à jour régulièrement, en même temps que la technologie en elle même, elle ne sera donc jamais obsolète
+- Elle suit généralement une structure cohérente et est organisée de manière logique. Cela permet aux développeurs de trouver rapidement l'information dont ils ont besoin.
+
+<!-- slide -->
+
+## **III. Intégration des informations dans l'outil**
+
+<img src="ajoutcard.png" alt="ajouter carte" width="768px" height="432px">
+
+Une fois que l'on a trouvé les informations utiles dans le cadre de la veille, on peut les ajouter grâce à un simple lien dans la collection en question. On a aussi la possibilité de rajouter du texte, des images ou bien des fichiers PDF.
+
+<!-- slide -->
+
+<img src="bougercard.png" alt="modifier carte" width="768px" height="432px">
+
+La carte ainsi créee, on peut la modifier, on peut aussi gérer sa disposition afin de classer les liens dans plusieurs sous-thèmes (documentation, actualités, vidéos...)
+
+<!-- slide -->
+
+<img src="editcard.png" alt="edit carte" width="768px" height="432px">
+
+Dans l'outil de modification de la carte on peut ainsi rajouter une image, un titre et du commentaire supplémentaire à destination de nos collaborateurs.
+
+<!-- slide -->
+
+## **IV. Conclusion**
+
+- Le travail de veille est essentiel pour rester à jour sur les tendances du marché, les technologies émergentes et les préférences des consommateurs. Les outils de veille tels que Google Alert, Wakelet et Daily.dev sont des moyens efficaces pour surveiller les sources d'information pertinentes et collecter les informations nécessaires pour prendre des décisions éclairées.
+- En organisant et en classant les informations collectées, les équipes peuvent collaborer de manière plus efficace et diffuser des informations pertinentes aux parties prenantes.
+- Les informations collectées à partir de la veille peuvent être utilisées pour développer de nouveaux produits ou services, affiner les spécifications techniques existantes et rester concurrentiel dans le marché.
+
+<!-- slide -->
+
+## **V. Annexe**
+
+Espace Wakelet: https://wakelet.com/i/invite?isSpace=true&code=2xbimxxo
