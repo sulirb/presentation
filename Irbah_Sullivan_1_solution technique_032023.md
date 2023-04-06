@@ -21,7 +21,7 @@ presentation:
 
 ### II. Spécifications techniques du site
 
-### III. Le plan de communication entre Qwenta et Webagencia
+### III. Organisation
 
 ### IV. Conclusion
 
@@ -77,3 +77,59 @@ On pourrait segmenter un site internet en 3 catégories :
 - Le serveur est un ordinateur qui a la possibilité de relier le frontend et le backend pour donner la possibilité d'avoir un site web complet et fonctionnel.
 
 **Ainsi, il est important d'avoir des développeurs qui puissent être spécialisés dans le frontend, et le backend, car ce ne seront pas forcément les mêmes outils que l'on utilisera pour developper.**
+
+<!-- slide -->
+
+### 2. Fonctionnalités du site
+
+<img src="menumakeraccueil.png" alt="acceuil" width="650px" height="850px">
+
+La page d'accueil de Menu Maker, à partir d'ici on peut se connecter, acceder aux tarifs et aux aides pour créer le menu.
+
+<!-- slide -->
+<img src="dashboard.png" alt="dashboard" width="720px" height="512px">
+
+Une fois connecté, on arrive sur le dashboard, ou l'on peut:
+
+- Créer, imprimer et exporter son menu
+- Avoir accés aux menus précedents
+- Pouvoir modifier ses informations personnelles
+- Acceder aux articles du blog
+
+<!-- slide -->
+<div style="display:flex;">
+    <figure>
+        <img src="menu-form.png" alt="form" width="600px" height="350px">
+        <figcaption>Menu formulaire</figcaption>
+    </figure>
+    <figure>
+        <img src="menu-perso.png" alt="perso" width="600px" height="350px">
+        <figcaption>Menu personnalisé</figcaption>
+    </figure>
+    <figure>
+        <img src="menu-export.png" alt="export" width="600px" height="350px">
+        <figcaption>Menu d'exportation</figcaption>
+    </figure>
+</div>
+
+Faire un schéma ?
+
+<!-- slide -->
+
+### 3. Technologies à utiliser
+
+### 4. Informations complémentaires
+
+<!-- slide -->
+
+## III. Organisation
+
+### 1. Travail de veille
+
+### 2. Tableau kanban
+
+### 3. Communication entre Webagencia et Qwenta
+
+<!-- slide -->
+
+## IV. Conclusion

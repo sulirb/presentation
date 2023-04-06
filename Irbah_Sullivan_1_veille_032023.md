@@ -33,8 +33,9 @@ presentation:
 
   <img src="wakelet.png" alt="wakelet" width="768px" height="432px">
 
-- Wakelet est une plateforme gratuite de stockage de contenu qui permet aux utilisateurs d'enregistrer, d'organiser et de partager ce même contenu sur Internet.
-- J'ai décidé de disposer le contenu de la veille dans 6 collections differentes présentes dans un espace commun appelé "Menu Maker by Qwenta": Base de données, Authentification, Frontend, VS Code, Backend, React.
+- Wakelet est une plateforme gratuite pour stocker, organiser et partager du contenu en ligne.
+
+- Le contenu de la veille est disposé dans 6 collections differentes dans un espace commun appelé "Menu Maker by Qwenta".
 
 <!-- slide -->
 
@@ -42,10 +43,10 @@ presentation:
 
 - Sauvegarder facilement les contenus trouvés sur Internet
 
-- Pouvoir partager ses collections avec un simple lien sur des outils de collaboration type Slack ou Microsoft Teams
-- La possibilité de pouvoir organiser la disposition de son contenu
+- Pouvoir partager ses collections avec un lien sur des outils de collaboration type Slack ou Microsoft Teams
+- Pouvoir organiser la disposition de son contenu
 
-**Cela en fait donc un outil très efficace dans le cadre d'une veille technologique.**
+**C'est donc un outil très efficace dans le cadre d'une veille technologique.**
 
 <!-- slide -->
 
@@ -55,7 +56,7 @@ presentation:
 
 <img src="dailydev.png" alt="daily dev" width="768px" height="432px">
 
-- Daily.dev est une plateforme permettant de retrouver toutes les actualités, articles et ressources sur le développement web et les technologies liées, provenant de plus de 400 sources et ce dans un seul flux.
+- Daily.dev est une plateforme permettant de retrouver toutes les actualités, articles et ressources sur le développement web, provenant de plus de 400 sources dans un seul flux.
 
 - Il est disponible sur Chrome, Firefox et Edge.
 
@@ -63,13 +64,13 @@ presentation:
 
 <img src="dailydevtag.png" alt="daily dev tag" width="768px" height="432px">
 
-On peut personnaliser son flux selon:
+**On peut personnaliser son flux selon:**
 
 - Les thèmes (cloud, databases, tech news, web development)
 
 - Des mots clés plus précis (image ci dessus)
 
-En somme, Daily.dev est un excellent outil pour les développeurs qui souhaitent rester au courant des dernières tendances et des innovations dans le domaine du développement web.
+Daily.dev est un excellent outil pour les développeurs qui souhaitent rester au courant des dernières tendances et innovations.
 
 <!-- slide -->
 
@@ -77,16 +78,16 @@ En somme, Daily.dev est un excellent outil pour les développeurs qui souhaitent
 
 <img src="google.png" alt="google" width="768px" height="432px">
 
-Google Alert est un outil de surveillance en ligne gratuit qui permet de suivre des mots clés spécifiques et de recevoir des mises à jour régulières.
+Google Alert est un outil de surveillance en ligne qui permet de suivre des mots clés spécifiques et de recevoir des mises à jour régulières.
 
 <!-- slide -->
 
-### On a plusieurs options de configurations:
+### Plusieurs options de configurations:
 
-- Le type de résultat souhaité: actualités, blogs, vidéos, discussions, etc.
+- Le type de résultat souhaité: actualités, blogs, vidéos, etc...
 - La langue souhaitée
 - La fréquence à laquelle on veut recevoir les alertes: journalière, hebdomadaire, mensuelle...
-- Le mode d'obtention des mises à jour: par e-mail ou via un flux RSS.
+- Le mode d'obtention des mises à jour: par e-mail, via un flux RSS.
 
 **Sa personnalisation et sa praticité en fait un outil très efficace dans le cadre d'une veille technologique.**
 
@@ -104,10 +105,10 @@ La documentation officielle, ce sont les outils mis à dispoisition par les cré
 
 ### Les points forts de la documentation officielle:
 
-- Elle est complète, en effet la documentation officielle va couvrir aussi bien les fonctionnalités de base que les fonctionnalités approfondies
+- Complète, elle couvre aussi bien les fonctionnalités de base que les fonctionnalités approfondies.
 
-- Elle est mise à jour régulièrement, en même temps que la technologie en elle même, elle ne sera donc jamais obsolète
-- Elle suit généralement une structure cohérente et est organisée de manière logique. Cela permet aux développeurs de trouver rapidement l'information dont ils ont besoin.
+- Mise à jour régulièrement, elle ne sera donc jamais obsolète
+- Organisée de manière logique, elle permet aux développeurs de trouver rapidement l'information dont ils ont besoin.
 
 <!-- slide -->
 
@@ -115,27 +116,31 @@ La documentation officielle, ce sont les outils mis à dispoisition par les cré
 
 <img src="ajoutcard.png" alt="ajouter carte" width="768px" height="432px">
 
-Une fois que l'on a trouvé les informations utiles dans le cadre de la veille, on peut les ajouter grâce à un simple lien dans la collection en question. On a aussi la possibilité de rajouter du texte, des images ou bien des fichiers PDF.
+Une fois les informations utiles trouvées dans le cadre de la veille, il est possible de les ajouter à une collection grâce à un lien. On peut également inclure du texte, des images ou des fichiers PDF pour enrichir la veille.
 
 <!-- slide -->
 
 <img src="bougercard.png" alt="modifier carte" width="768px" height="432px">
 
-La carte ainsi créee, on peut la modifier, on peut aussi gérer sa disposition afin de classer les liens dans plusieurs sous-thèmes (documentation, actualités, vidéos...)
+La carte ainsi créee, on peut la modifier et gérer sa disposition afin de classer les liens dans plusieurs sous-thèmes (documentation, actualités, vidéos...)
 
 <!-- slide -->
 
 <img src="editcard.png" alt="edit carte" width="768px" height="432px">
 
-Dans l'outil de modification de la carte on peut ainsi rajouter une image, un titre et du commentaire supplémentaire à destination de nos collaborateurs.
+On peut ajouter une image, un titre et des commentaires destinés aux collaborateurs via l'outil de modification de la carte.
 
 <!-- slide -->
 
 ## **IV. Conclusion**
 
-- Le travail de veille est essentiel pour rester à jour sur les tendances du marché, les technologies émergentes et les préférences des consommateurs. Les outils de veille tels que Google Alert, Wakelet et Daily.dev sont des moyens efficaces pour surveiller les sources d'information pertinentes et collecter les informations nécessaires pour prendre des décisions éclairées.
-- En organisant et en classant les informations collectées, les équipes peuvent collaborer de manière plus efficace et diffuser des informations pertinentes aux parties prenantes.
-- Les informations collectées à partir de la veille peuvent être utilisées pour développer de nouveaux produits ou services, affiner les spécifications techniques existantes et rester concurrentiel dans le marché.
+- La veille est essentielle pour rester à jour sur les tendances du marché, les technologies émergentes et les préférences des consommateurs.
+
+- Les outils de veille présentés sont des moyens efficaces pour surveiller et collecter les informations nécessaires afin de prendre des décisions éclairées:
+
+  - En organisant et en classant les informations collectées, les équipes peuvent collaborer de manière plus efficace et diffuser des informations pertinentes aux parties prenantes.
+
+  - Les informations collectées à partir de la veille peuvent être utilisées pour développer de nouveaux produits ou services, affiner les spécifications techniques existantes et rester concurrentiel dans le marché.
 
 <!-- slide -->
 
