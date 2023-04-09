@@ -82,12 +82,17 @@ On pourrait segmenter un site internet en 3 catégories :
 
 ### 2. Fonctionnalités du site
 
-<img src="menumakeraccueil.png" alt="acceuil" width="650px" height="850px">
+<img src="arborescence.png" alt="arbo" width="768px" height="432px">
+
+Ce diagramme montre la façon dont nous avons structuré le site web. La page d'accueil est au sommet de l'arbre, chaque branche de l'arbre représente une page ou une section spécifique.
+
+<!-- slide -->
+<img src="menumakeraccueil.png" alt="acceuil" width="580px" height="820px">
 
 La page d'accueil de Menu Maker, à partir d'ici on peut se connecter, acceder aux tarifs et aux aides pour créer le menu.
 
 <!-- slide -->
-<img src="dashboard.png" alt="dashboard" width="720px" height="512px">
+<img src="dashboard.png" alt="dashboard" width="800px" height="540px">
 
 Une fois connecté, on arrive sur le dashboard, ou l'on peut:
 
@@ -97,28 +102,82 @@ Une fois connecté, on arrive sur le dashboard, ou l'on peut:
 - Acceder aux articles du blog
 
 <!-- slide -->
-<div style="display:flex;">
-    <figure>
-        <img src="menu-form.png" alt="form" width="600px" height="350px">
-        <figcaption>Menu formulaire</figcaption>
-    </figure>
-    <figure>
-        <img src="menu-perso.png" alt="perso" width="600px" height="350px">
-        <figcaption>Menu personnalisé</figcaption>
-    </figure>
-    <figure>
-        <img src="menu-export.png" alt="export" width="600px" height="350px">
-        <figcaption>Menu d'exportation</figcaption>
-    </figure>
-</div>
 
-Faire un schéma ?
+**Création des ménus:**
+
+<img src="menu-export.png" alt="export" width="900px" height="600px">
 
 <!-- slide -->
 
 ### 3. Technologies à utiliser
 
+**_J'ai décidé de découper les technologies à utiliser en 3 étages:_**
+
+---
+
+**A. Interface utilisateur (frontend):**
+
+- La combinaison HTML, CSS, JavaScript pour structurer, présenter et ajouter interactions et fonctionnalités à la page
+
+- Des outils supplémentaires qui simplifient et accélèrent le processus de développement en fournissant des composants pré-construits:
+
+  - Bootstrap, qui permet de créer facilement et rapidement des sites et applications web responsives.
+  - React, pour créer des interfaces utilisateur interactives
+
+<figure style="display: flex; flex-direction: row;align-items: center; gap: 10px;">
+        <img src="structure.jpg" alt="structure" width="500px" height="250px">
+        <figcaption>Si on devait comparer à la construction d'une maison, HTML serait la charpente, CSS la peinture et JavaScript l'électricité, l'eau...</figcaption>
+    </figure>
+
+<!-- slide -->
+
+**B. Logique de l'application (backend):**
+
+- Node.js pour créer des applications web côté serveur (dont l'API REST) en JavaScript
+- SQL pour stocker et récupérer des données à partir d'une base de données
+
+ <img src="api-architecture.png" alt="api" width="550px" height="180px">
+
+**C. Outils supplémentaires:**
+
+- Auth0, outil de gestion d'authentification pour sécuriser l'accès à l'application web
+- API RESTful, permet la communication entre différents systèmes
+- Nodemailer, pour envoyer des emails à partir de l'application web
+- API Instagram et Deliveroo pour permettre de diffuser son menu sur ces sites.
+- jsPDF, permet de génerer des fichiers PDF à partir de contenu HTML.
+
+<!-- slide -->
+
 ### 4. Informations complémentaires
+
+• Nom du domaine : menumaker.qwenta.com
+• Nom de l’hébergement : OVH
+• Adresses e-mail : Adresses e-mail personalisées en utilisant le nom de domaine (contact@menumaker.com)
+• Compatibilité navigateur : Le site doit être compatible avec les 2 dernières versions des navigateurs maintenus (Firefox, Safari et Chrome).
+• Types d’appareils : Le site sera en version desktop.
+
+SECURITE
+• Mettre en œuvre le protocole TLS (il va chiffrer les informations transferées entre le serveur et les utilisateurs)
+• Utiliser le HTTPS pour le site (marqué par le cadenas à coté de l’adresse du site)
+• Limiter l’acces aux outils et interfaces d’administration aux seules personnes habilitées via un domaine secondaire (développeurs, data analysts…)
+• Ne pas stocker le token de connexion en clair (sur le disque dur de l’utilisateur)
+• Ne pas placer les bases de données sur un serveur directement accessible depuis Internet.
+
+<!-- slide -->
+
+• Maintenance :
+
+C’est un suivi qui permet d'analyser et de corriger les bugs que le site pourrait présenter au fil de son existence.
+Il existe deux grands types de maintenance de site :
+L’entretien technique: mises à jour de sécurité, d’extensions, de scripts, de performances…
+La gestion du contenu: mises à jour des contenus obsolètes, liens cassés, pages inutiles…
+
+• Futures mises à jour :
+
+Page d’accueil : Ajouter des animations sur la photo de la bannière + sur les formes géométriques des sections.
+Tarifs : Les intégrer directement sur Menu Maker
+Paiement : Créer le possibilité de changer de moyen de paiement
+Blog : Créer un blog interne à Menu Maker
 
 <!-- slide -->
 
