@@ -73,10 +73,10 @@ On pourrait segmenter un site internet en 3 catégories :
 <img src="schemafrontback.png" alt="schema" width="500px" height="330px">
 
 - Le frontend, c'est à dire la partie qui sera visible par l'utilisateur lorsqu'il sera sur le site.
-- Le backend, c'est la partie "cachée", d'un site web, c'est ici que les données envoyées par l'utilisateur seront stockées, traitées, et gérées.
+- Le backend, c'est la partie "cachée" d'un site web, où les données envoyées par l'utilisateur seront stockées, traitées, et gérées.
 - Le serveur est un ordinateur qui a la possibilité de relier le frontend et le backend afin d'avoir un site web complet et fonctionnel.
 
-**Ainsi, il est important d'avoir des développeurs qui puissent être spécialisés dans le frontend, et le backend, car ce ne seront pas forcément les mêmes outils que l'on utilisera pour developper.**
+**Il est important d'avoir des développeurs qui puissent être spécialisés dans le frontend ou le backend, car ce ne seront pas forcément les mêmes outils que l'on utilisera pour developper.**
 
 <!-- slide -->
 
@@ -126,8 +126,8 @@ A droite, on pourra prévisualiser en temps réel les modifications.
 
 - Des outils supplémentaires qui simplifient et accélèrent le processus de développement en fournissant des composants pré-construits:
 
-  - Bootstrap, qui permet de créer facilement et rapidement des sites et applications web responsives.
-  - React, pour créer des interfaces utilisateur interactives
+  - **Bootstrap**, qui permet de créer facilement et rapidement des sites et applications web responsives.
+  - **React**, pour créer des interfaces utilisateur interactives
 
 <figure style="display: flex; flex-direction: row;align-items: center; gap: 10px;">
         <img src="structure.jpg" alt="structure" width="500px" height="250px">
@@ -138,7 +138,7 @@ A droite, on pourra prévisualiser en temps réel les modifications.
 
 **B. Logique de l'application (backend):**
 
-- Node.js pour créer des applications web côté serveur (dont l'API REST) en JavaScript
+- **Node.js** pour créer des applications web côté serveur (dont l'API REST) en JavaScript
 - SQL pour stocker et récupérer des données à partir d'une base de données
 
 <img src="api-architecture.png" alt="api" width="550px" height="180px">
@@ -148,7 +148,7 @@ A droite, on pourra prévisualiser en temps réel les modifications.
 - Auth0, outil de gestion d'authentification pour sécuriser l'accès à l'application web
 - API RESTful, permet la communication entre différents systèmes
 - Nodemailer, pour envoyer des emails à partir de l'application web
-- API Instagram et Deliveroo pour permettre de diffuser son menu sur ces sites.
+- API **Instagram** et **Deliveroo** pour permettre de diffuser son menu sur ces sites.
 - jsPDF, génere des fichiers PDF à partir de contenu HTML.
 
 <!-- slide -->
@@ -215,7 +215,7 @@ Le travail de veille permet de sélectionner les outils les plus adaptés aux be
 Ce processus agile sera utilisé par l'équipe durant la conception du site.
 
 - Pendant le sprint, l'équipe travaillera sur les fonctions jugées prioritaires lors du planning meeting.
-- A la fin de chaque sprint (toutes les 2 semaines), Webagencia et Qwenta rentreront en communication.
+- A la fin de chaque sprint, Webagencia et Qwenta rentreront en communication.
 
 **L'objectif est d'assurer la transparence entre les parties prenantes.**
 
@@ -227,8 +227,8 @@ Ce processus agile sera utilisé par l'équipe durant la conception du site.
 - La communication aura lieu:
   - entre le chef de projet de Qwenta et notre Scrum Master.
   - en visioconférence via l'outil slack.
-
-<!-- slide -->
+  - toutes les 2 semaines
+  <!-- slide -->
 
 ## IV. Conclusion
 
