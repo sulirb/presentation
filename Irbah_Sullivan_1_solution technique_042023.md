@@ -228,7 +228,8 @@ Ce processus agile sera utilisé par l'équipe durant la conception du site.
   - entre le chef de projet de Qwenta et notre Scrum Master.
   - en visioconférence via l'outil slack.
   - toutes les 2 semaines
-  <!-- slide -->
+
+<!-- slide -->
 
 ## IV. Conclusion
 
